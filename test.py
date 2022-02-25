@@ -30,4 +30,5 @@ while True:
         list_all(data_container)
     else:
         print('Program was terminated by an unknown command')
+        print('Thanks for using our software')
         break
